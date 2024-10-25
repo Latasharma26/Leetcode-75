@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Latasharma26/Leetcode-75/tree/master/0062-unique-paths) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Latasharma26/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/Latasharma26/Leetcode-75/tree/master/1236-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Latasharma26/Leetcode-75/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Latasharma26/Leetcode-75/tree/master/0435-non-overlapping-intervals) |
 | [0806-domino-and-tromino-tiling](https://github.com/Latasharma26/Leetcode-75/tree/master/0806-domino-and-tromino-tiling) |
+| [1236-n-th-tribonacci-number](https://github.com/Latasharma26/Leetcode-75/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Latasharma26/Leetcode-75/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Latasharma26/Leetcode-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Latasharma26/Leetcode-75/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Latasharma26/Leetcode-75/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Latasharma26/Leetcode-75/tree/master/0062-unique-paths) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Latasharma26/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Latasharma26/Leetcode-75/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/Latasharma26/Leetcode-75/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/Latasharma26/Leetcode-75/tree/master/0806-domino-and-tromino-tiling) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Latasharma26/Leetcode-75/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Latasharma26/Leetcode-75/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Latasharma26/Leetcode-75/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

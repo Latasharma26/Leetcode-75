@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Latasharma26/Leetcode-75/tree/master/0011-container-with-most-water) |
+| [0162-find-peak-element](https://github.com/Latasharma26/Leetcode-75/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Latasharma26/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Latasharma26/Leetcode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Latasharma26/Leetcode-75/tree/master/0283-move-zeroes) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Latasharma26/Leetcode-75/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Latasharma26/Leetcode-75/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/Latasharma26/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Latasharma26/Leetcode-75/tree/master/2392-successful-pairs-of-spells-and-potions) |

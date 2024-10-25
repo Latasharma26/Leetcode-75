@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Latasharma26/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Latasharma26/Leetcode-75/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Latasharma26/Leetcode-75/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Latasharma26/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/Latasharma26/Leetcode-75/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Latasharma26/Leetcode-75/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Latasharma26/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
@@ -138,12 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Latasharma26/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/Latasharma26/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Latasharma26/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Latasharma26/Leetcode-75/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/Latasharma26/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Latasharma26/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Latasharma26/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion

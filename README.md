@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Latasharma26/Leetcode-75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/Latasharma26/Leetcode-75/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Latasharma26/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Latasharma26/Leetcode-75/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Latasharma26/Leetcode-75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Latasharma26/Leetcode-75/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Latasharma26/Leetcode-75/tree/master/0394-decode-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Latasharma26/Leetcode-75/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Latasharma26/Leetcode-75/tree/master/0208-implement-trie-prefix-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/Latasharma26/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Latasharma26/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Latasharma26/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Latasharma26/Leetcode-75/tree/master/0208-implement-trie-prefix-tree) |
 | [0937-online-stock-span](https://github.com/Latasharma26/Leetcode-75/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Latasharma26/Leetcode-75/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Latasharma26/Leetcode-75/tree/master/2413-smallest-number-in-infinite-set) |
@@ -318,5 +321,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Latasharma26/Leetcode-75/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/Latasharma26/Leetcode-75/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->

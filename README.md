@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Latasharma26/Leetcode-75/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Latasharma26/Leetcode-75/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Latasharma26/Leetcode-75/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Latasharma26/Leetcode-75/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Latasharma26/Leetcode-75/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/Latasharma26/Leetcode-75/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Latasharma26/Leetcode-75/tree/master/1036-rotting-oranges) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Latasharma26/Leetcode-75/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Latasharma26/Leetcode-75/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Latasharma26/Leetcode-75/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Latasharma26/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Latasharma26/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Latasharma26/Leetcode-75/tree/master/0136-single-number) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Latasharma26/Leetcode-75/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Latasharma26/Leetcode-75/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

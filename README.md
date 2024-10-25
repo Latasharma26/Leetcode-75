@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Latasharma26/Leetcode-75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Latasharma26/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Latasharma26/Leetcode-75/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Latasharma26/Leetcode-75/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Latasharma26/Leetcode-75/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Latasharma26/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Latasharma26/Leetcode-75/tree/master/0739-daily-temperatures) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Latasharma26/Leetcode-75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Latasharma26/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Latasharma26/Leetcode-75/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Latasharma26/Leetcode-75/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2636-maximum-subsequence-score](https://github.com/Latasharma26/Leetcode-75/tree/master/2636-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Latasharma26/Leetcode-75/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Latasharma26/Leetcode-75/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Latasharma26/Leetcode-75/tree/master/0435-non-overlapping-intervals) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Latasharma26/Leetcode-75/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Latasharma26/Leetcode-75/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Latasharma26/Leetcode-75/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/Latasharma26/Leetcode-75/tree/master/1236-n-th-tribonacci-number) |
